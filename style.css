@@ -1,0 +1,28 @@
+body{
+        background-color: black;
+}
+
+h1{
+    text-transform: uppercases;
+    font-size: 5rem;
+}
+#size{
+    font-size: 40px;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 0%;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+
+}
+
+.gay-image{
+    height: 500px;
+    width: 200px;
+    border: 5px solid whitesmoke;
+    width: 100%;
+}
